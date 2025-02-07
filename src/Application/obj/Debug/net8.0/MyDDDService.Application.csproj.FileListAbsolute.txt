@@ -1,0 +1,15 @@
+/Users/kyawzayannaing/dev/projects/MyDDDService/src/Application/obj/Debug/net8.0/MyDDDService.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kyawzayannaing/dev/projects/MyDDDService/src/Application/obj/Debug/net8.0/MyDDDService.Application.AssemblyInfoInputs.cache
+/Users/kyawzayannaing/dev/projects/MyDDDService/src/Application/obj/Debug/net8.0/MyDDDService.Application.AssemblyInfo.cs
+/Users/kyawzayannaing/dev/projects/MyDDDService/src/Application/obj/Debug/net8.0/MyDDDService.Application.csproj.CoreCompileInputs.cache
+/Users/kyawzayannaing/dev/projects/MyDDDService/src/Application/bin/Debug/net8.0/MyDDDService.Application.deps.json
+/Users/kyawzayannaing/dev/projects/MyDDDService/src/Application/bin/Debug/net8.0/MyDDDService.Application.dll
+/Users/kyawzayannaing/dev/projects/MyDDDService/src/Application/bin/Debug/net8.0/MyDDDService.Application.pdb
+/Users/kyawzayannaing/dev/projects/MyDDDService/src/Application/bin/Debug/net8.0/MyDDDService.Domain.dll
+/Users/kyawzayannaing/dev/projects/MyDDDService/src/Application/bin/Debug/net8.0/MyDDDService.Domain.pdb
+/Users/kyawzayannaing/dev/projects/MyDDDService/src/Application/obj/Debug/net8.0/MyDDDService.Application.csproj.AssemblyReference.cache
+/Users/kyawzayannaing/dev/projects/MyDDDService/src/Application/obj/Debug/net8.0/MyDDDSer.C6839092.Up2Date
+/Users/kyawzayannaing/dev/projects/MyDDDService/src/Application/obj/Debug/net8.0/MyDDDService.Application.dll
+/Users/kyawzayannaing/dev/projects/MyDDDService/src/Application/obj/Debug/net8.0/refint/MyDDDService.Application.dll
+/Users/kyawzayannaing/dev/projects/MyDDDService/src/Application/obj/Debug/net8.0/MyDDDService.Application.pdb
+/Users/kyawzayannaing/dev/projects/MyDDDService/src/Application/obj/Debug/net8.0/ref/MyDDDService.Application.dll

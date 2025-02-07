@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MyDDDService.Infrastructure/1.0.0": {
+        "dependencies": {
+          "MyDDDService.Domain": "1.0.0"
+        },
+        "runtime": {
+          "MyDDDService.Infrastructure.dll": {}
+        }
+      },
+      "MyDDDService.Domain/1.0.0": {
+        "runtime": {
+          "MyDDDService.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyDDDService.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyDDDService.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

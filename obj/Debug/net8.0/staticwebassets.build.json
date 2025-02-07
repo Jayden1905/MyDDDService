@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7v+uRbZgy5MgpnDEFvYZwzOiHgHHth/o7ZlzGLufaW4=",
+  "Source": "MyDDDService",
+  "BasePath": "_content/MyDDDService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

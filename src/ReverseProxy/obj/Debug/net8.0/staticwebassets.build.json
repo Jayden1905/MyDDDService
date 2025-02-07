@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "JExcbJ9OdAo4wFtCJiLAIks9JQUZ3zYeG/bUFBJZpy8=",
+  "Source": "MyDDDService.ReverseProxy",
+  "BasePath": "_content/MyDDDService.ReverseProxy",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

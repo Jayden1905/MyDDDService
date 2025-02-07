@@ -1,0 +1,15 @@
+/Users/kyawzayannaing/dev/projects/MyDDDService/src/Infrastructure/obj/Debug/net8.0/MyDDDService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kyawzayannaing/dev/projects/MyDDDService/src/Infrastructure/obj/Debug/net8.0/MyDDDService.Infrastructure.AssemblyInfoInputs.cache
+/Users/kyawzayannaing/dev/projects/MyDDDService/src/Infrastructure/obj/Debug/net8.0/MyDDDService.Infrastructure.AssemblyInfo.cs
+/Users/kyawzayannaing/dev/projects/MyDDDService/src/Infrastructure/obj/Debug/net8.0/MyDDDService.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/kyawzayannaing/dev/projects/MyDDDService/src/Infrastructure/bin/Debug/net8.0/MyDDDService.Infrastructure.deps.json
+/Users/kyawzayannaing/dev/projects/MyDDDService/src/Infrastructure/bin/Debug/net8.0/MyDDDService.Infrastructure.dll
+/Users/kyawzayannaing/dev/projects/MyDDDService/src/Infrastructure/bin/Debug/net8.0/MyDDDService.Infrastructure.pdb
+/Users/kyawzayannaing/dev/projects/MyDDDService/src/Infrastructure/bin/Debug/net8.0/MyDDDService.Domain.dll
+/Users/kyawzayannaing/dev/projects/MyDDDService/src/Infrastructure/bin/Debug/net8.0/MyDDDService.Domain.pdb
+/Users/kyawzayannaing/dev/projects/MyDDDService/src/Infrastructure/obj/Debug/net8.0/MyDDDService.Infrastructure.csproj.AssemblyReference.cache
+/Users/kyawzayannaing/dev/projects/MyDDDService/src/Infrastructure/obj/Debug/net8.0/MyDDDSer.246E9967.Up2Date
+/Users/kyawzayannaing/dev/projects/MyDDDService/src/Infrastructure/obj/Debug/net8.0/MyDDDService.Infrastructure.dll
+/Users/kyawzayannaing/dev/projects/MyDDDService/src/Infrastructure/obj/Debug/net8.0/refint/MyDDDService.Infrastructure.dll
+/Users/kyawzayannaing/dev/projects/MyDDDService/src/Infrastructure/obj/Debug/net8.0/MyDDDService.Infrastructure.pdb
+/Users/kyawzayannaing/dev/projects/MyDDDService/src/Infrastructure/obj/Debug/net8.0/ref/MyDDDService.Infrastructure.dll

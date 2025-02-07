@@ -1,0 +1,11 @@
+/Users/kyawzayannaing/dev/projects/MyDDDService/src/Domain/bin/Debug/net8.0/MyDDDService.Domain.deps.json
+/Users/kyawzayannaing/dev/projects/MyDDDService/src/Domain/bin/Debug/net8.0/MyDDDService.Domain.dll
+/Users/kyawzayannaing/dev/projects/MyDDDService/src/Domain/bin/Debug/net8.0/MyDDDService.Domain.pdb
+/Users/kyawzayannaing/dev/projects/MyDDDService/src/Domain/obj/Debug/net8.0/MyDDDService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kyawzayannaing/dev/projects/MyDDDService/src/Domain/obj/Debug/net8.0/MyDDDService.Domain.AssemblyInfoInputs.cache
+/Users/kyawzayannaing/dev/projects/MyDDDService/src/Domain/obj/Debug/net8.0/MyDDDService.Domain.AssemblyInfo.cs
+/Users/kyawzayannaing/dev/projects/MyDDDService/src/Domain/obj/Debug/net8.0/MyDDDService.Domain.csproj.CoreCompileInputs.cache
+/Users/kyawzayannaing/dev/projects/MyDDDService/src/Domain/obj/Debug/net8.0/MyDDDService.Domain.dll
+/Users/kyawzayannaing/dev/projects/MyDDDService/src/Domain/obj/Debug/net8.0/refint/MyDDDService.Domain.dll
+/Users/kyawzayannaing/dev/projects/MyDDDService/src/Domain/obj/Debug/net8.0/MyDDDService.Domain.pdb
+/Users/kyawzayannaing/dev/projects/MyDDDService/src/Domain/obj/Debug/net8.0/ref/MyDDDService.Domain.dll
