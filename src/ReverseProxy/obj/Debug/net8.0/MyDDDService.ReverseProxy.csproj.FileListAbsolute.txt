@@ -26,3 +26,4 @@
 /Users/kyawzayannaing/dev/projects/MyDDDService/src/ReverseProxy/obj/Debug/net8.0/MyDDDService.ReverseProxy.pdb
 /Users/kyawzayannaing/dev/projects/MyDDDService/src/ReverseProxy/obj/Debug/net8.0/MyDDDService.ReverseProxy.genruntimeconfig.cache
 /Users/kyawzayannaing/dev/projects/MyDDDService/src/ReverseProxy/obj/Debug/net8.0/ref/MyDDDService.ReverseProxy.dll
+/Users/kyawzayannaing/dev/projects/MyDDDService/src/ReverseProxy/obj/Debug/net8.0/MyDDDService.ReverseProxy.sourcelink.json
